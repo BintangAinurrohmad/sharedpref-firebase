@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaultsMap>
+  <entry>
+    <key>font_size</key>
+    <value>18</value>
+  </entry>
+  <entry>
+    <key>font_color</key>
+    <value>#ff0000</value>
+  </entry>
+</defaultsMap>
